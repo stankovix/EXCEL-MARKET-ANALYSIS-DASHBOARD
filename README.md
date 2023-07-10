@@ -11,13 +11,13 @@ The market analysis project aims to provide valuable insights into the company's
 
 Key Objectives:
 
-Determine the market share of our company (VanArsdel).
+1. Determine the market share of our company (VanArsdel).
 
-Identify revenue trends across all manufacturers.
+2. Identify revenue trends across all manufacturers.
 
-Analyze sales distribution in the USA.
+3. Analyze sales distribution in the USA.
 
-Explore revenue trends and year-on-year growth.
+4. Explore revenue trends and year-on-year growth.
 
 
 
